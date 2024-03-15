@@ -9,4 +9,3 @@
 - Shadcn
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
